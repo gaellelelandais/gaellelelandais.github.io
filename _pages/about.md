@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-J’enseigne les statistiques, la bioinformatique et l'analyse de données biologiques aux étudiantes et étudiants de l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/). Je suis également responsable de la [Licence Double Diplôme (LDD) Mathématiques, Sciences de la Vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie). J’effectue ma recherche au sein de l'[Institut de Biologie Intégrative de la Cellule (I2BC)](https://www.i2bc.paris-saclay.fr/) du CNRS et je suis intéressée par les problématiques d’analyse de données multi-omiques, dans un contexte de Big Data dans les Sciences de la Vie.
+J’enseigne les statistiques, la bioinformatique et l'analyse de données biologiques aux étudiantes et étudiants de l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/). Je suis également responsable de la [Licence Double Diplôme (LDD) Mathématiques, Sciences de la Vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie). J’effectue ma recherche au sein de l'[Institut de Biologie Intégrative de la Cellule (I2BC)](https://www.i2bc.paris-saclay.fr/) du CNRS. Je suis intéressée par les problématiques de Big Data dans les Sciences de la Vie.
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
