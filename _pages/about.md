@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Université Paris-Saclay</p>
-    <p>Institut I2BC - CNRS UMR 9198</p>
-    <p>Bat. 23 - Gif-sur-Yvette</p>
+    <p>Institut I2BC</p>
+    <p>Bat. 23, Gif-sur-Yvette</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
