@@ -19,4 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-J’enseigne les statistiques, la bioinformatique et l'analyse de données biologiques aux étudiantes et étudiants de l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/). Je suis également responsable de la [Licence Double Diplôme (LDD) Mathématiques, Sciences de la Vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie). J’effectue ma recherche au sein de l'[Institut de Biologie Intégrative de la Cellule (I2BC)](https://www.i2bc.paris-saclay.fr/) du CNRS. Je suis intéressée par les problématiques de Big Data dans les Sciences de la Vie. Au cours de mon parcours scientifique, j’ai travaillé dans des équipes de biologies expérimentales productrices de données, mais aussi dans des équipes de bioinformatique productrices de méthodologies d’analyses. J’ai dans ces contextes contribué à de [multiples projets de recherche](https://gaellelelandais.github.io/projects/).
+**Je suis Professeure à l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/)**.
+
+J’enseigne les statistiques, la bioinformatique et l'analyse de données biologiques aux étudiantes et étudiants de Licence et de Master. Je suis également responsable de la [Licence Double Diplôme (LDD) Mathématiques, Sciences de la Vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie). 
+
+J’effectue ma recherche au sein de l'[Institut de Biologie Intégrative de la Cellule (I2BC)](https://www.i2bc.paris-saclay.fr/) du CNRS. Je suis intéressée par les **problématiques de Big Data dans les Sciences de la Vie**. Au cours de mon parcours scientifique, j’ai travaillé dans des équipes de biologies expérimentales productrices de données, mais aussi dans des équipes de bioinformatique productrices de méthodologies d’analyses. J’ai dans ces contextes contribué à de [multiples projets de recherche](https://gaellelelandais.github.io/projects/).
+
+Ce site est mon espace numérique professionnel. J’y partage des ressources et mes refléxions, en relation avec mes expériences d'enseignante et de chercheuse à l'Université.
