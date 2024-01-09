@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Création de ce site Internet. Mon objectif est de mieux partager les ressources que je trouve ou que je crée (une de mes bonnes résolutions pour 2024 :sparkles: :smile:). Pour cela, j'effectuerai des mises à jours des différentes sections, au fur et à mesure de l'année.
+Création de ce site Internet. Mon objectif est de mieux partager les ressources que je trouve ou que je crée (une de mes bonnes résolutions pour 2024 :sparkles:). Pour cela, j'effectuerai des mises à jours des différentes sections, au fur et à mesure de l'année.
