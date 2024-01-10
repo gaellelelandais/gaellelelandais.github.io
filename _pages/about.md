@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institut I2BC</p>
-    <p>Bat. 23, Gif-sur-Yvette</p>
+    <p>Bat. 23A, Lab. N1 - 119</p>
+    <p>Gif-sur-Yvette</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
