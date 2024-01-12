@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ecrire, juste pour le plaisir
-date: 2023-12-31 08:57:00-0400
+date: 2024-01-11 03:00:00-0400
 description: Réflexions concernant la production de textes scientifiques
 tags: réflexions opinions
 categories: sample-posts
