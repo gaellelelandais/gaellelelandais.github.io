@@ -5,6 +5,7 @@ date: 2024-01-11 03:00:00-0400
 description: Réflexions concernant la production de textes scientifiques
 tags: réflexions opinions
 categories: sample-posts
+featured: true
 ---
 
 Ces dernières années, j’ai eu la chance d’être sollicitée pour la rédaction de textes “atypiques”. Atypiques car il s’agissait de textes pour lesquels il n’y aurait pas de processus de « reviewing », c’est à dire une procédure d’évaluation de mon travail par d’autres chercheuses ou chercheurs de mon domaine d’expertise. Ainsi je me suis associée à 3 collègues pour la rédaction de :
@@ -13,7 +14,7 @@ Ces dernières années, j’ai eu la chance d’être sollicitée pour la rédac
 - [R ou Python en Bioinformatique ? Regards croisés entre collègues enseignants-chercheurs](https://bioinfo-fr.net/choisir-entre-r-et-python-en-bioinformatique-regards-croises-entre-collegues-enseignants-chercheurs), rédigé avec Pierre Poulain,
 - [Making the most of statistics in biology](https://ngc-mainz.de/blog/making-the-most-of-statistics-in-biology), rédigé avec Pierre Grognet.
 
-La rédaction de ces textes, chacun à leur manière, a été un très grand plaisir. Je ne devrais pas en être étonnée (j’aime écrire !) et pourtant. Je suis impliquée dans des projets de recherche depuis 15 ans et autrice de plus de 40 articles scientifiques. La rédaction est une activité quasi quotidienne dans mon travail, mais j’ai pris conscience, lors de l'écriture de ces derniers textes, du poids que pouvait représenter la nécessité de « convaincre » dans un contexte scientifique exigeant et compétitif, au lieu de simplement « expliquer » et « partager ».
+La rédaction de ces textes, chacun à leur manière, a été un très grand plaisir. Je ne devrais pas en être étonnée (j’aime écrire !) et pourtant. Je suis impliquée dans des projets de recherche depuis 20 ans et autrice de plus de 40 articles scientifiques. La rédaction est une activité quasi quotidienne dans mon travail, mais j’ai pris conscience, lors de l'écriture de ces derniers textes, du poids que pouvait représenter la nécessité de « convaincre » dans un contexte scientifique exigeant et compétitif, au lieu de simplement « expliquer » et « partager ».
 
 Mon analyse de mes sentiments est que devoir convaincre m’oblige à me mettre dans une posture combative. Intellectuellement, je trouve cette posture intéressante, car alors, je dois m’armer d’une grande rigueur, d’arguments solides, pour ainsi présenter des raisonnements clairs et sans faille. C’est ainsi qu’il est possible de contrer les critiques des personnes qui m'évaluent avec une grande efficacité. Mais en même temps, cette posture fait que le doute finalement, n’a plus vraiment sa place… Et c’est bien dommage.
 
