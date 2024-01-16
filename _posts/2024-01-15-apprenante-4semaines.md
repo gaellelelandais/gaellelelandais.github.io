@@ -5,9 +5,10 @@ date: 2024-01-15 03:00:00-0400
 description: Retour d'expérience après 4 semaines de formation, en tant qu'apprenante
 tags: apprentissage pédagogie réflexions
 categories: sample-posts
+featured: true
 ---
 
-> *La création de ce site Web me fait retrouver des anciens textes. Puisque je dispose d'un endroit pour les organiser et les partager, j'en profite ! En voici que j'avais rédigé en Avril 2021, après avoir suivi [la formation du DUBii](https://du-bii.github.io/accueil/). Bonne lecture !*
+> *La création de ce site Web me fait retrouver des anciens textes. Puisque je dispose d'un endroit pour les organiser et les partager, j'en profite ! En voici un que j'avais rédigé en Avril 2021, après avoir suivi [la formation du DUBii](https://du-bii.github.io/accueil/). Bonne lecture* :eyes:
 
 ## Le contexte
 
