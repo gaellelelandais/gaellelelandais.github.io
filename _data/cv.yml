@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gaëlle Lelandais
     - name: Date of Birth
-      value: 14th March 1879
+      value: 07 septembre 1978
     - name: Languages
-      value: English, German
+      value: Français, Anglais
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD 
+      institution: Université Paris Diderot
+      year: 2005
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: DEA Analyse des Génomes et Modélisation Moléculaire
+      institution: Université Paris Diderot
+      year: 2002
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professeure des Universités (1ère classe)
+      institution: Université Paris Saclay
+      year: 2023 -
       description:
         - Description 1.
         - Description 2.
@@ -41,43 +41,26 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Professeure des Universités (2ème classe)
+      institution: Université Paris Saclay
+      year: 2016 - 2023
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Maîtresse de Conférences
+      institution: Université Paris Diderot (Paris 7)
+      year: 2006 - 2016
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Attachée Temporaire Enseignement et Recherche (ATER)
+      institution: Université Paris Diderot (Paris 7)
+      year: 2005 - 2006
+      description:
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Doctorante
+      institution: Ecole Normale Supérieure (ENS, Paris)
+      year: 2002 - 2005
 
 - title: Academic Interests
   type: nested_list

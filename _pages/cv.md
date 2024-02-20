@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV_LELANDAIS_2020.pdf
+description: Ci dessous quelques informations concernant mon parcours professionnel. Elles sont mises à jour (plus ou moins) régulièrement.
 toc:
   sidebar: left
 ---
