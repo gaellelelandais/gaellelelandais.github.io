@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Divers
-description: Food for brain :)
+title: Master 2
+description: Atelier Big Data.
 img: assets/img/bioinfo.jpg
 importance: 1
-category: fun
+category: teaching
 related_publications: 
 ---
 

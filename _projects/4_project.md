@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pixel
-description: Organisation des données au laboratoire.
+title: Master 1
+description: Analyse de données multi-omiques.
 img: assets/img/bioinfo.jpg
 importance: 1
-category: tools
+category: teaching
 related_publications: 
 ---
 

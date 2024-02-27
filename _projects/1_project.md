@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 3DGB
-description: Etude de la conformation 3D des génomes fongiques 
+description: Etude de la conformation 3D des génomes fongiques. 
 img: assets/img/bioinfo.jpg
 importance: 1
-category: work
+category: tools
 related_publications: 
 ---
 

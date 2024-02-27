@@ -5,7 +5,7 @@ permalink: /projects/
 description: La collection de mes projets, en recherche et en enseignement.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [tools, data analysis, teaching]
 horizontal: false
 ---
 
