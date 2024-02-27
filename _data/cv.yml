@@ -1,33 +1,27 @@
-- title: General Information
+- title: Informations générales
   type: map
   contents:
-    - name: Full Name
+    - name: Prénom et Nom
       value: Gaëlle Lelandais
-    - name: Date of Birth
+    - name: Date de naissance
       value: 07 septembre 1978
-    - name: Languages
+    - name: Langues
       value: Français, Anglais
 
-- title: Education
+- title: Formation
   type: time_table
   contents:
-    - title: PhD 
+    - title: Habilitation à diriger des recherches (HDR) 
+      institution: Université Paris Diderot
+      year: 2011
+      description:
+        - Génomique fonctionnelle des levures et réseaux de gènes.
+    - title: Thèse 
       institution: Université Paris Diderot
       year: 2005
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: DEA Analyse des Génomes et Modélisation Moléculaire
-      institution: Université Paris Diderot
-      year: 2002
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Analyse comparative, inter et intra espèce de transcriptomes de levures.
+ 
 - title: Experience
   type: time_table
   contents:
@@ -35,46 +29,36 @@
       institution: Université Paris Saclay
       year: 2023 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Institut de Biologie Intégrative de la Cellule (I2BC).
     - title: Professeure des Universités (2ème classe)
       institution: Université Paris Saclay
       year: 2016 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
+        - Institut de Biologie Intégrative de la Cellule (I2BC).
     - title: Maîtresse de Conférences
-      institution: Université Paris Diderot (Paris 7)
+      institution: Université Paris Diderot (Paris 7).
       year: 2006 - 2016
       description:
-
+          - Institut Jacques Monod (IJM)          
     - title: Attachée Temporaire Enseignement et Recherche (ATER)
-      institution: Université Paris Diderot (Paris 7)
+      institution: Université Paris Diderot (Paris 7).
       year: 2005 - 2006
       description:
-
+          - Equipe de Bioinformatique Génomique et Moléculaire (EBGM)
     - title: Doctorante
-      institution: Ecole Normale Supérieure (ENS, Paris)
+      institution: Ecole Normale Supérieure (ENS)
       year: 2002 - 2005
+      description:
+          - Laboratoire de génomique moléculaire (LGM).      
 
-- title: Academic Interests
+- title: Intérêts scientifiques
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Bioinformatique.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Analyse de données.
+        - Techniques de séquençage à haut débit.
+    - title: Génomique fonctionnelle.
+      items:
+        - Levures.
+        - Champignons filamenteux.

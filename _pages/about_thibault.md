@@ -1,0 +1,1 @@
+Thibault a effectué sa thèse de 2020 à 2023. Il s'est intéressé à la représentation des réseaux de gènes à large échelle et la modélisation de l'organisation des génomes en 3D.

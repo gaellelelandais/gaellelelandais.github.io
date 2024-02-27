@@ -1,0 +1,1 @@
+Thomas a effectué sa thèse de 2017 à 2020. Toutes les informations utiles sont disponibles ici : [site de la thèse de Thomas Denecker](https://thomasdenecker.github.io/thesisWebsite/).
