@@ -2,7 +2,7 @@
 layout: page
 title: Master 2
 description: Atelier Big Data.
-img: assets/img/bioinfo.jpg
+img: assets/img/tableau.jpg
 importance: 1
 category: teaching
 related_publications: 

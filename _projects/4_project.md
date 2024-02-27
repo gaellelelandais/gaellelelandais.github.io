@@ -2,7 +2,7 @@
 layout: page
 title: Master 1
 description: Analyse de données multi-omiques.
-img: assets/img/bioinfo.jpg
+img: assets/img/tableau.jpg
 importance: 1
 category: teaching
 related_publications: 
