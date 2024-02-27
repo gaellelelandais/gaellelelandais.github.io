@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Master 2
-description: Atelier Big Data.
+title: DUO
+description: Formation professionnelle pour l'analyse et la valorisation de données "omiques".
 img: assets/img/tableau.jpg
 importance: 1
 category: teaching

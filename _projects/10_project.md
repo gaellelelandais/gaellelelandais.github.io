@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Homéostasie du fer
-description: Caractérisation d'un réseau de gènes chez la levure Candida glabrata.
+title: Organisation du génome
+description: Analyse de données HiC chez les levures et les champignons filamenteux.
 img: assets/img/analyse-donnees.jpg
 importance: 1
 category: data analysis

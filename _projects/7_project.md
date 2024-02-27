@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3DGB
-description: Création de modèles 3D des génomes fongiques. 
+title: ARTIVA
+description: Inférence de réseaux de gènes à partir des profils transcriptomiques.
 img: assets/img/code.jpg
 importance: 1
 category: tools

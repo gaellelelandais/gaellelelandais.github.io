@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3DGB
-description: Création de modèles 3D des génomes fongiques. 
+title: bPeaks
+description: Détection des "pics" lors d'une analyse de données ChIPseq.
 img: assets/img/code.jpg
 importance: 1
 category: tools

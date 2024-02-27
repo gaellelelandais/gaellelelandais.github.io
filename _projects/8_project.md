@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Homéostasie du fer
-description: Caractérisation d'un réseau de gènes chez la levure Candida glabrata.
+title: Métabolisme du Fer
+description: Etude de la carence en fer chez l'algue marine Ostreococcus tauri.
 img: assets/img/analyse-donnees.jpg
 importance: 1
 category: data analysis
